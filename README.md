@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sacko Kadiatou
+- 👋 Hello, je suis @Sacko Kadiatou
 - 👀 je suis passionnée de technologies et d'innovations
 - 🌱 j'apprends la data science et le machine learning
 - 💞️ je cherche à collaborer sur des projets de data science
-- 📫 comment me contacter :  sackokadiatou224@gmail.com
+- 📫 comment me contacter :  Sackokadiatou225@gmail.com
   
 
 <!---
